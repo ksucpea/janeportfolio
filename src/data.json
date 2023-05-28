@@ -1,0 +1,31 @@
+
+{
+    "projects": [
+        {"title": "AUGHTS", "w": 1350, "h": 1080, "src": "/media/projects/AUGHTS.mp4", "type": "video", "thumb": 2},
+        {"title": "baltimore mosh", "w": 1080, "h": 1920, "src": "/media/projects/baltimore+mosh.mp4", "type": "video", "thumb":0},
+        {"title": "james & terry", "w": 1920, "h": 1080, "src": "/media/projects/james+terry.mp4", "type": "video", "thumb": 100},
+        {"title": "KEXPO 2022 promo", "w": 1920, "h": 1080, "src": "/media/projects/KEXPO+2022+promo.mp4", "type": "video", "thumb": 0},
+        {"title": "KEXPO recap", "w": 3024, "h": 1964, "src": "/media/projects/KEXPO+recap.mp4", "type": "video", "thumb": 3},
+        {"title": "land of ice and fire", "w": 640, "h": 360, "src": "/media/projects/land+of+ice+and+fire.mp4", "type": "video", "thumb": 29},
+        {"title": "NIK 2023 promo", "w": 1080, "h": 1220, "src": "/media/projects/NIK+2023+promo.mp4", "type": "video", "thumb": 0.5},
+        {"title": "executive board introduction", "w": 6000, "h": 4000, "src": "/media/projects/executive+board+intro.mp4", "type": "video",  "thumb": 0},
+        {"title": "public school era", "w": 1080, "h": 1350, "src": "/media/projects/public+school+era.mp4", "type": "video",  "thumb": 1},
+        {"title": "sports snack social", "w": 1080, "h": 1920, "src": "/media/projects/sports+snack+social.mp4", "type": "video",  "thumb": 5},
+        {"title": "UITWAAIEN", "w": 1080, "h": 1920, "src": "/media/projects/UITWAAIEN.mp4", "type": "video", "thumb": 0.7},
+        {"title": "桜", "w": 1080, "h": 1350, "src": "/media/projects/1.mp4", "type": "video", "thumb": 4}
+    ],
+    "portraits": [
+        {"title": "anna", "w": 1537, "h": 2305, "src": "/media/portraits/anna.jpg", "type": "image", "thumb": null},
+        {"title": "annabelle", "w": 2171, "h": 1535, "src": "/media/portraits/annabelle.jpg", "type": "image", "thumb": null},
+        {"title": "anthony", "w": 4672, "h": 6541, "src": "/media/portraits/anthony.jpg", "type": "image", "thumb": null},
+        {"title": "dasol", "w": 1380, "h": 2153, "src": "/media/portraits/dasol.jpg", "type": "image", "thumb": null},
+        {"title": "delaney", "w": 1462, "h": 2305, "src": "/media/portraits/delaney.jpg", "type": "image", "thumb": null},
+        {"title": "ella", "w": 2878, "h": 4796, "src": "/media/portraits/ella.jpg", "type": "image", "thumb": null},
+        {"title": "gabby", "w": 1536, "h": 2304, "src": "/media/portraits/gabby.jpg", "type": "image", "thumb": null},
+        {"title": "kavon", "w": 4000, "h": 6000, "src": "/media/portraits/kavon.jpg", "type": "image", "thumb": null},
+        {"title": "leila", "w": 1309, "h": 2305, "src": "/media/portraits/leila.jpg", "type": "image", "thumb": null},
+        {"title": "maddie", "w": 6000, "h": 4000, "src": "/media/portraits/maddie.jpg", "type": "image", "thumb": null},
+        {"title": "roy", "w": 4000, "h": 6000, "src": "/media/portraits/roy.jpg", "type": "image", "thumb": null},
+        {"title": "tyler", "w": 1537, "h": 2305, "src": "/media/portraits/tyler.jpg", "type": "image", "thumb": null}
+    ]
+}
